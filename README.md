@@ -4,7 +4,7 @@ Basic "hello world": https://github.com/Maroder1/TIA-openness
 
 The repo consists of two versions: one normal python file (.py) and one jupyter notebook file (.ipynb). It is strongly recommended to use jupyter when developing an openness application, as you do not have to rerun your entire code each time you are testing and exploring.
 
-**Note:** this is not "production code", but code to demonstrate the API. For production you should use more methods, loops and checks (partly demonstrated)
+**Note:** this is not "production code", but code to demonstrate the API. For production you should use more functions, loops and checks (partly demonstrated)
 
 **The following topics are demonstrated.**
 
