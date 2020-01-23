@@ -4,8 +4,9 @@ Basic "hello world": https://github.com/Maroder1/TIA-openness
 
 The repo consists of two versions: one normal python file (.py) and one jupyter notebook file (.ipynb). It is strongly recommended to use jupyter when developing an openness application, as you do not have to rerunn your entire code each time you are testing and exploring.
 
-**The following topics are demonstrated. **
-Note: this is not "production code", but code to demonstrate the API. For production you should use more methods, loops and checks (partly demonstrated)
+**Note:** this is not "production code", but code to demonstrate the API. For production you should use more methods, loops and checks (partly demonstrated)
+
+**The following topics are demonstrated.**
 
 - Starting TIA
 - Creating project
@@ -43,6 +44,7 @@ Note: this is not "production code", but code to demonstrate the API. For produc
 
  1. [Download Miniconda](https://docs.conda.io/en/latest/miniconda.html)
  2. Open Command Prompt (CMD)
+ 
  3. Create a new environment by typing: *conda create --name opennesspy python=3.7* (note 3.7 )
  4. Actiavte the environment: *conda activate opennesspy*
  5. Install pythonnet by typing: *pip install pythonnet*  Note: installing using *conda install* didnt work.
