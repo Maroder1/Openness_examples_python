@@ -3,6 +3,7 @@
 Basic "hello world": https://github.com/Maroder1/TIA-openness
 
 The repo consists of two versions: one normal python file (.py) and one jupyter notebook file (.ipynb). It is strongly recommended to use jupyter when developing an openness application, as you do not have to rerun your entire code each time you are testing and exploring.
+Additionally there is a separate file "Download.ipynb" that demonstrates how to download to a PLC (this code is attaching to a running instance with open project)
 
 **Note:** this is not "production code", but code to demonstrate the API. For production you should use more functions, loops and checks (partly demonstrated)
 
@@ -19,6 +20,7 @@ The repo consists of two versions: one normal python file (.py) and one jupyter 
 - Exporting blocks and Tag tables
 - Importing blocks and Tag tables
 - Saving, closing dispoing
+- Downloading (see Download.ipynb)
 
 
 **NOTE: I failed to install pythonnet on python 3.8, use 3.7 if you run into problems**
